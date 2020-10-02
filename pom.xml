@@ -38,7 +38,7 @@
         <htmlformentryVersion>3.9.2</htmlformentryVersion>
         <uiframeworkVersion>3.9</uiframeworkVersion>
         <appframeworkVersion>2.9</appframeworkVersion>
-        <appuiVersion>1.7</appuiVersion>
+        <appuiVersion>1.13.0</appuiVersion>
         <emrapiVersion>1.18</emrapiVersion>
         <uicommonsVersion>2.1</uicommonsVersion>
         <providermanagementVersion>2.5.0</providermanagementVersion>
