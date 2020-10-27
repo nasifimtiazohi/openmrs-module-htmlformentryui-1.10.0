@@ -43,7 +43,7 @@
         <uicommonsVersion>2.1</uicommonsVersion>
         <providermanagementVersion>2.5.0</providermanagementVersion>
         <reportingVersion>0.10.4</reportingVersion>
-        <calculationVersion>1.2</calculationVersion>
+        <calculationVersion>1.2.1</calculationVersion>
         <serializationXstreamVersion>0.2.12</serializationXstreamVersion>
     </properties>
 
